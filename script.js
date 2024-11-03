@@ -1,7 +1,7 @@
 // Social media links configuration
 const socialLinks = [
-    { icon: 'fab fa-instagram', url: 'https://instagram.com/yourusername' },
-    { icon: 'fab fa-facebook', url: 'https://facebook.com/yourusername' },
+    { icon: 'fab fa-instagram', url: 'https://instagram.com/o.s.t.u.p' },
+    { icon: 'fab fa-facebook', url: 'https://facebook.com/profile.php?id=100041006161730' },
     { icon: 'fab fa-linkedin', url: 'https://www.linkedin.com/in/ostap-/' },
     { icon: 'far fa-envelope', url: 'mailto:ostap.baraniak@yahoo.com' }
 ];
@@ -16,27 +16,21 @@ const mainLinks = [
     },
     {
         title: 'Email',
-        url: '#',
+        url: 'mailto:ostap.baraniak@yahoo.com',
         icon: 'far fa-envelope',
         iconColor: '#333333'
     },
     {
         title: 'YouTube',
-        url: 'https://www.youtube.com/@ostapbaraniak',
+        url: '#',
         icon: 'fab fa-youtube',
         iconColor: '#FF0000'
     },
     {
         title: 'Biography',
-        url: 'https://www.notion.so/ostap-baraniak/Biography/',
+        url: '#',
         icon: 'fas fa-building',
         iconColor: '#2b2b2b'
-    },
-    {
-        title: 'Sale',
-        url: 'https://www.notion.so/ostap-baraniak/Sale/',
-        icon: 'fas fa-tag',
-        iconColor: '#ff4444'
     },
 ];
 
